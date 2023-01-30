@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Okd16hgt39OpnlWrOaYtyz6zflDCu1fdqybpxkPPrOTBAl9fzB3GaUjpcIqxw6Mdm+Ax87JMRlwZqb+SDqoaVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91790\\Desktop\\dotnet\\SelfPratice\\Project2\\Project2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91790\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
